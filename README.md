@@ -17,6 +17,24 @@
 
 本项目使用`Android Studio`作为开发工具，可以直接导入项目，然后通过模拟器或真机运行。
 
+## 项目预览
+
+1. 登录页面
+
+    ![Preview1](preview/1.jpg)
+
+2. 刷卡页面
+
+    ![Preview2](preview/2.jpg)
+
+3. 通信完成页面
+
+    ![Preview3](preview/3.jpg)
+
+4. 设备维护页面
+
+    ![Preview4](preview/4.jpg)
+
 ## 开源许可
 
 本项目开源于MIT许可证，详见[LICENSE](LICENSE.md)文件。

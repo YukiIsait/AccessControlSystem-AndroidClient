@@ -17,6 +17,24 @@ An identity authentication access control system based on NFC technology. Levera
 
 This project uses `Android Studio` as the development tool. You can directly import the project and run it on an emulator or real device.
 
+## Project Previews
+
+1. Login Page
+
+    ![Preview1](preview/1.jpg)
+
+2. Card Swiping Page
+
+    ![Preview2](preview/2.jpg)
+
+3. Communication Completed Page
+
+    ![Preview3](preview/3.jpg)
+
+4. Device Maintenance Page
+
+    ![Preview4](preview/4.jpg)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
