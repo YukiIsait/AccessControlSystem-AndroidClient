@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name" translatable="false">SmartCard</string>
+    <string name="label_service_host_card_emulator" translatable="false">HostCardEmulatorService</string>
+    <string name="label_broadcast_receiver_nfc_state" translatable="false">NfcStateBroadcastReceiver</string>
+    <string name="label_activity_main">Smart Card</string>
+    <string name="description_host_apdu_service">Host Card Emulator</string>
+    <string name="description_host_apdu_aid_group">SmartCard</string>
+    <string name="title_app_name">Smart Card</string>
+    <string name="title_login">Sign In</string>
+    <string name="title_logout">Sign Out</string>
+    <string name="title_maintain">Maintain</string>
+    <string name="title_save">Save</string>
+    <string name="title_end_maintenance">End Maintenance</string>
+    <string name="title_welcome">Welcome Back</string>
+    <string name="title_contact">Contact</string>
+    <string name="title_server">Server</string>
+    <string name="title_id">ID</string>
+    <string name="title_name">Name</string>
+    <string name="title_password">Password</string>
+    <string name="title_error">Error</string>
+    <string name="title_ok">OK</string>
+    <string name="title_loading">Loading</string>
+    <string name="title_cancel">Cancel</string>
+    <string name="title_refresh">Refresh</string>
+    <string name="title_mac">MAC</string>
+    <string name="title_ip">IP</string>
+    <string name="title_port">Port</string>
+    <string name="title_subnet">Subnet</string>
+    <string name="title_gateway">Gateway</string>
+    <string name="title_dns">DNS</string>
+    <string name="title_open_nfc_settings">Open NFC Settings</string>
+    <string name="message_please_wait_for_login">Logging in, Please wait....</string>
+    <string name="message_id_or_password_is_empty">ID or Password is Empty</string>
+    <string name="message_unknown_error">Unknown Error</string>
+    <string name="message_close_to_the_card_reader">Move the Back of Your Phone\nClose to the Card Reader</string>
+    <string name="message_communication_complete">Communication Complete\nPlease Check the Device</string>
+    <string name="message_device_does_not_support_nfc">This Device Does Not Support NFC</string>
+    <string name="message_nfc_is_disabled">NFC is Disabled\nPlease Enable It</string>
+    <string name="message_invalid_login_information">Your Login Information is Expired\nPlease Login Again</string>
+    <string name="message_copyright">Copyright © 2024 YukiIsait</string>
+    <string name="file_login_information" translatable="false">login_information.dat</string>
+    <string name="role_admin" translatable="false">ROLE_ADMIN</string>
+    <string name="role_maintainer" translatable="false">ROLE_MAINTAINER</string>
+    <string name="aid_guard" translatable="false">CAFE00CAFE00CAFE00FF</string>
+    <string name="aid_maintenance" translatable="false">CAFE00CAFE00CAFE00FE</string>
+    <string name="address_default_server_ip" translatable="false">172.16.0.252</string>
+    <string name="address_default_server_port" translatable="false">10014</string>
+</resources>
